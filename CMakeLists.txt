@@ -1,4 +1,4 @@
-cmake_minimum_required (VERSION 2.6)
+cmake_minimum_required (VERSION 11)
 project (CBD_LIST2)
 
 # Version number
